@@ -1,0 +1,13 @@
+.logo_container {
+    gap: 5px;
+}
+.logo_container.logo{     
+    width: 40px;
+    height: 40px;
+}
+.logo_container img {
+    object-fit: contain;
+}
+.logo_container h2 {
+    font-size: 30px;
+}
